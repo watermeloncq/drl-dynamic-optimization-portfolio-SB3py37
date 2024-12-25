@@ -8,11 +8,13 @@ https://arxiv.org/abs/2412.18563
 
 ### Training Rewards：
 
-![](.\img\training_rewards.png)
+![training_rewards](https://github.com/user-attachments/assets/268f5f36-ffba-4ac6-8c56-e3b7d431f9ae)
+
 
 ### Results：
 
-![](.\img\OPT_compare.png)
+![OPT_comparison](https://github.com/user-attachments/assets/200c7406-8489-4d1b-81a8-ddb6f618defa)
+
 
 
 
