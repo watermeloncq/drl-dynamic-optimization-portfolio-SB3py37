@@ -48,7 +48,7 @@ The paper code for portfolio optimization using SB3 with gymnasium support is av
 
 ### (1) Code Execution Steps
 
-After environment configuration and package installation, clone or download the repository locally to execute the Jupyter notebook files.
+After python environment configuration and package installation, clone or download the repository locally to execute the Jupyter notebook files.
 
 Step 1: Process data files by executing "./data/0. load chinese data 1d multindex.ipynb" .
 
