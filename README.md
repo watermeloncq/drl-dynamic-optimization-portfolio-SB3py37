@@ -6,6 +6,9 @@
 
 https://arxiv.org/abs/2412.18563
 
+In addition to the implementation code presented in the paper, this project provides supplementary code with the following algorithmic implementations for testing and learning purposes:
+- SAC+ViT
+- PPO+Resnet
 ### Training Rewards：
 
 ![training_rewards](https://github.com/user-attachments/assets/268f5f36-ffba-4ac6-8c56-e3b7d431f9ae)
