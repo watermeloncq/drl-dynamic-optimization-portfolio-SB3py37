@@ -1,4 +1,4 @@
-# Paper Code: **Dynamic Optimization of Portfolio Allocation Using Deep Reinforcement Learning**
+# (Paper Code) **A Deep Reinforcement Learning Framework for Dynamic Portfolio Optimization: Evidence from China's Stock Market**
 
 ## 1. About
 
