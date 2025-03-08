@@ -87,14 +87,21 @@ tensorboard --logdir ppo-vgg1-softmax
 If you use this code, please cite our paper:
 
 ```bibtex
-@misc{huang2024dynamicoptimizationportfolioallocation,
-      title={Dynamic Optimization of Portfolio Allocation Using Deep Reinforcement Learning}, 
-      author={Gang Huang and Xiaohua Zhou and Qingyang Song},
-      year={2024},
-      eprint={2412.18563},
-      archivePrefix={arXiv},
-      primaryClass={q-fin.PM},
-      url={https://arxiv.org/abs/2412.18563}, 
+@ARTICLE{2024arXiv241218563H,
+       author = {{Huang}, Gang and {Zhou}, Xiaohua and {Song}, Qingyang},
+        title = "{A Deep Reinforcement Learning Framework for Dynamic Portfolio Optimization: Evidence from China's Stock Market}",
+      journal = {arXiv e-prints},
+     keywords = {Quantitative Finance - Portfolio Management},
+         year = 2024,
+        month = dec,
+          eid = {arXiv:2412.18563},
+        pages = {arXiv:2412.18563},
+          doi = {10.48550/arXiv.2412.18563},
+archivePrefix = {arXiv},
+       eprint = {2412.18563},
+ primaryClass = {q-fin.PM},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2024arXiv241218563H},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 ```
 
